@@ -1,7 +1,9 @@
-进入gh-pages;	
+使用说明：
 
-下载代码到本地;
+  进入gh-pages;	
 
-用命令行输入gulp --watch;
+  下载代码到本地;
 
-打开浏览器输入localhost:3000即可预览项目;
+  用命令行输入gulp --watch;
+
+  打开浏览器输入localhost:3000即可预览项目;
